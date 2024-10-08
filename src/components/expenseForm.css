@@ -1,0 +1,16 @@
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+button{
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #45a049;
+}
